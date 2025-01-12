@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using myshop.Web.Data;
+
 namespace myshop.Web
 {
     public class Program
@@ -8,8 +11,8 @@ namespace myshop.Web
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
             builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+            builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -29,7 +32,7 @@ namespace myshop.Web
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Category}/{action=Index}/{id?}");
 
             app.Run();
         }

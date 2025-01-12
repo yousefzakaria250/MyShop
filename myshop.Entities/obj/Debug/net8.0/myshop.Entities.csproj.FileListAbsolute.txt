@@ -1,0 +1,12 @@
+D:\.Net Project\myshop\myshop.Entities\bin\Debug\net8.0\myshop.Entities.deps.json
+D:\.Net Project\myshop\myshop.Entities\bin\Debug\net8.0\myshop.Entities.dll
+D:\.Net Project\myshop\myshop.Entities\bin\Debug\net8.0\myshop.Entities.pdb
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.AssemblyInfoInputs.cache
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.AssemblyInfo.cs
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.csproj.CoreCompileInputs.cache
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.sourcelink.json
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.dll
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\refint\myshop.Entities.dll
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.pdb
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\ref\myshop.Entities.dll
