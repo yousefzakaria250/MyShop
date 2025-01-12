@@ -1,0 +1,32 @@
+﻿@if (TempData["create"] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    @* <h3>@TempData["message"]</h3> *@
+    <script type="text/javascript">
+        // Display an info toast with no title
+        toastr["success"]("@TempData["create"]");
+    </script>
+}
+
+@if (TempData["update"] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    @* <h3>@TempData["message"]</h3> *@
+    <script type="text/javascript">
+        // Display an info toast with no title
+        toastr["info"]("@TempData["update"]");
+    </script>
+}
+
+@if (TempData["delete"] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    @* <h3>@TempData["message"]</h3> *@
+    <script type="text/javascript">
+        // Display an info toast with no title
+        toastr["error"]("@TempData["delete"]");
+    </script>
+}
