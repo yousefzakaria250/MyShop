@@ -1,0 +1,49 @@
+﻿@model ProductViewModel
+@{
+    ViewBag.PageTitle = "Product Management";
+    ViewBag.CardTitle = "Create Product";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<form method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Product.Name">Product Name:</label>
+        <input asp-for="Product.Name" class="form-control" placeholder="Enter Product Name Here..." />
+        <span asp-validation-for="Product.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Description">Description:</label>
+        <input asp-for="Product.Description" class="form-control" placeholder="Enter Description Here..." />
+        <span asp-validation-for="Product.Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Product.Price">Price:</label>
+        <input asp-for="Product.Price" class="form-control" placeholder="Enter Price Here..." />
+        <span asp-validation-for="Product.Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Product.Image">Image:</label>
+        <input type="file" name="file" class="form-control" placeholder="Enter Image Here..." />
+        <span asp-validation-for="Product.Image" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Product.CategoryId"></label>
+        <select asp-for="Product.CategoryId" asp-items="Model.Items" class="form-control">
+            <option disabled selected> --- Select Category ---</option>
+        </select>
+        <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit">Create</button>
+        <a class="btn btn-warning" asp-action="Index" asp-controller="Category">Back To Index</a>
+    </div>
+
+</form>
+@* to using client side validation *@
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

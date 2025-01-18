@@ -10,3 +10,4 @@ D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.dll
 D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\refint\myshop.Entities.dll
 D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.pdb
 D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\ref\myshop.Entities.dll
+D:\.Net Project\myshop\myshop.Entities\obj\Debug\net8.0\myshop.Entities.csproj.AssemblyReference.cache
