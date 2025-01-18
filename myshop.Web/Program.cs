@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using myshop.Web.Data;
+using myshop.DataAcess.Data;
+using myshop.DataAcess.Repositories;
+using myshop.Entities.Interfaces;
 
 namespace myshop.Web
 {
@@ -13,6 +15,7 @@ namespace myshop.Web
             builder.Services.AddControllersWithViews();
             builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
             builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -32,7 +35,7 @@ namespace myshop.Web
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Category}/{action=Index}/{id?}");
+                pattern: "{area=Admin}/{controller=Category}/{action=Index}/{id?}");
 
             app.Run();
         }

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\.Net Project\\myshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|d:\\.net project\\myshop\\myshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|d:\\.net project\\myshop\\myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|d:\\.net project\\myshop\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|d:\\.net project\\myshop\\myshop.web\\myshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\myshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|d:\\.net project\\myshop\\myshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35AA3114-FE1E-4379-ABC0-8A2786C33623}|myshop.Entities\\myshop.Entities.csproj|d:\\.net project\\myshop\\myshop.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35AA3114-FE1E-4379-ABC0-8A2786C33623}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|d:\\.net project\\myshop\\myshop.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89C7A3A-D888-473E-AE55-9D7504F68583}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E883E19-20F8-42A1-BD3D-E4424576E587}|myshop.DataAcess\\myshop.DataAcess.csproj|d:\\.net project\\myshop\\myshop.dataacess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E883E19-20F8-42A1-BD3D-E4424576E587}|myshop.DataAcess\\myshop.DataAcess.csproj|solutionrelative:myshop.dataacess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E883E19-20F8-42A1-BD3D-E4424576E587}|myshop.DataAcess\\myshop.DataAcess.csproj|d:\\.net project\\myshop\\myshop.dataacess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E883E19-20F8-42A1-BD3D-E4424576E587}|myshop.DataAcess\\myshop.DataAcess.csproj|solutionrelative:myshop.dataacess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA3114-FE1E-4379-ABC0-8A2786C33623}|myshop.Entities\\myshop.Entities.csproj|d:\\.net project\\myshop\\myshop.entities\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA3114-FE1E-4379-ABC0-8A2786C33623}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "myshop.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "myshop.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T16:39:43.177Z",
+              "WhenOpened": "2025-01-17T22:40:50.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "myshop.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "myshop.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-17T22:34:42.155Z",
               "EditorCaption": ""
             },
             {
@@ -61,45 +78,49 @@
               "RelativeDocumentMoniker": "myshop.Web\\Program.cs",
               "ToolTip": "D:\\.Net Project\\myshop\\myshop.Web\\Program.cs",
               "RelativeToolTip": "myshop.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:37:57.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "myshop.Web.csproj",
-              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Web\\myshop.Web.csproj",
-              "RelativeDocumentMoniker": "myshop.Web\\myshop.Web.csproj",
-              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Web\\myshop.Web.csproj",
-              "RelativeToolTip": "myshop.Web\\myshop.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-01T16:35:33.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "myshop.Entities\\Class1.cs",
-              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Entities\\Class1.cs",
-              "RelativeToolTip": "myshop.Entities\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:22:06.309Z"
+              "WhenOpened": "2025-01-17T21:47:54.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.DataAcess\\Class1.cs",
-              "RelativeDocumentMoniker": "myshop.DataAcess\\Class1.cs",
-              "ToolTip": "D:\\.Net Project\\myshop\\myshop.DataAcess\\Class1.cs",
-              "RelativeToolTip": "myshop.DataAcess\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.DataAcess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAcess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\.Net Project\\myshop\\myshop.DataAcess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "myshop.DataAcess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:21:24.984Z"
+              "WhenOpened": "2025-01-17T21:28:16.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Entities\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Entities\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:30:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\.Net Project\\myshop\\myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\.Net Project\\myshop\\myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:26:39.234Z",
+              "EditorCaption": ""
             }
           ]
         },

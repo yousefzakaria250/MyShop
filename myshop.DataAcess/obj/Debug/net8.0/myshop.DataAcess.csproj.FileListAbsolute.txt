@@ -10,3 +10,9 @@ D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\myshop.DataAcess.dll
 D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\refint\myshop.DataAcess.dll
 D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\myshop.DataAcess.pdb
 D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\ref\myshop.DataAcess.dll
+D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\myshop.DataAcess.csproj.AssemblyReference.cache
+D:\.Net Project\myshop\myshop.DataAcess\bin\Debug\net8.0\myshop.DataAcess.runtimeconfig.json
+D:\.Net Project\myshop\myshop.DataAcess\bin\Debug\net8.0\myshop.Entities.dll
+D:\.Net Project\myshop\myshop.DataAcess\bin\Debug\net8.0\myshop.Entities.pdb
+D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\myshop.D.C6491641.Up2Date
+D:\.Net Project\myshop\myshop.DataAcess\obj\Debug\net8.0\myshop.DataAcess.genruntimeconfig.cache
